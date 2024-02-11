@@ -18,8 +18,12 @@ export default function Home() {
       <hr />
       <h1>INNOGROWTH</h1>
       <hr />
-      <h2>titulo #1</h2>
-      <img src="#" alt="imagen" />
+      <article>
+        <h2>Titulo</h2>
+        <picture>
+          <img src="#" alt="imagen 1" />
+        </picture>
+      </article>
     </main>
   );
 }
